@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# system cache
+.DS_Store 
+
+# ide cache
+.idea/
+.vscode/
