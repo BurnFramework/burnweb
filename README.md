@@ -1,6 +1,10 @@
 # burnweb
 Burn Web Framework
 
+## About burn:
+- burn is a golang framework for building restapi
+- It's main aim is to be fast, productivity, and easy 
+
 ## QuickInstallation:
 ```
 $ go get -u github.com/BurnFramework/burnweb
