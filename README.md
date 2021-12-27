@@ -10,7 +10,9 @@ $ go get -u github.com/BurnFramework/burnweb
 ```golang
 package main
 
-import burn "github.com/BurnFramework/burnweb"
+import (
+	burn "github.com/BurnFramework/burnweb"
+)
 
 func main() {
 	br := burn.New()
